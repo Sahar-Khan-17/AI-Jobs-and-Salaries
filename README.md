@@ -4,3 +4,7 @@ The project focuses on analyzing a dataset from https://ai-jobs.net/salaries/dow
 
 # Blog 
 Link : https://medium.com/@saharkhan7/land-your-dream-job-a-peek-into-global-ai-salaries-and-job-trends-632ec2ef6874
+
+# Outputs : 
+
+![salaryexp](https://user-images.githubusercontent.com/116682872/230786905-7a621657-2eeb-4e42-bd69-4f7ed9847cfa.png)
